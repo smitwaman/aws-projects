@@ -1,0 +1,2 @@
+# aws-projects
+for beginner
